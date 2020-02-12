@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">MyFirstDesign</string>
+    <string-array name="analysis">
+        <item>Вода</item>
+        <item>Воздух</item>
+        <item>Отходы</item>
+    </string-array>
+
+
+    <string-array name="water">
+        <item>Жесткость</item>
+        <item>Кальций</item>
+        <item>Магний</item>
+    </string-array>
+
+    <string-array name="air">
+        <item>Пыль</item>
+        <item>Сажа</item>
+        <item>ДАГ-500</item>
+    </string-array>
+
+    <string-array name="waste">
+        <item>Нефтепродукты</item>
+        <item>Компонентный состав</item>
+        <item>Аммиак</item>
+    </string-array>
 </resources>
